@@ -38,4 +38,8 @@ def run(cmd: List[str]) -> str:
 def load_config():
     if CONFIG_PATH.exists():
         try:
-            user_cfg = json._
+            user_cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+            for k, v in user_cfg.items():
+                CFG[k] = v
+        except Exception as e:
+            print(f"[warn] Failed to read config: {e}")
