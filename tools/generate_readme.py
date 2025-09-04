@@ -35,7 +35,7 @@ def run(cmd: List[str]) -> str:
     except Exception:
         return ""
 
- def load_config():
+def load_config():
     if CONFIG_PATH.exists():
         try:
             user_cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
@@ -44,7 +44,7 @@ def run(cmd: List[str]) -> str:
         except Exception as e:
             print(f"[warn] Failed to read config: {e}")
  
- def prettify_filename(name: str) -> str:
+def prettify_filename(name: str) -> str:
     base = name.rsplit(".", 1)[0]
     base = base.replace("_", " ").replace("-", " ").strip()
     return " ".join(w.capitalize() for w in base.split() if w)
