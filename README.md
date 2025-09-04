@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-09-04 10:31 UTC**_
+_Last updated: **2025-09-04 10:35 UTC**_
 ## Index (Tree)
 ### Root
 - [Tijdloze Fundamenten vs. Lock-in Tools](https://github.com/SimBeSim/Normale-Gekte/blob/main/fundamenten_vs_lockin.md)  — _2025-09-04_
