@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-09-04 10:52 UTC**_
+_Last updated: **2025-09-04 11:10 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -22,7 +22,7 @@ _Last updated: **2025-09-04 10:52 UTC**_
 <summary><strong>Public</strong></summary>
 
 **Publiek/**
-└── [Voltooid](https://github.com/SimBeSim/Normale-Gekte/blob/main/Publiek/Voltooid.md)  — _2025-09-04_
+- └── [Voltooid](https://github.com/SimBeSim/Normale-Gekte/blob/main/Publiek/Voltooid.md)  — _2025-09-04_
 </details>
 
 
@@ -30,10 +30,10 @@ _Last updated: **2025-09-04 10:52 UTC**_
 <summary><strong>Uncategorized</strong></summary>
 
 **book/**
-└── [Normale Gekte](https://github.com/SimBeSim/Normale-Gekte/blob/main/book/manuscript.md)  — _2025-09-04_
+- └── [Normale Gekte](https://github.com/SimBeSim/Normale-Gekte/blob/main/book/manuscript.md)  — _2025-09-04_
 
 **stories/**
-├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-09-04_
-└── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-09-04_
+- ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-09-04_
+- └── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-09-04_
 </details>
 <!-- AUTO-GENERATED:END -->
