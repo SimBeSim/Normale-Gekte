@@ -1,0 +1,34 @@
+name: Voeg voltooid-regel toe
+
+on:
+  workflow_dispatch:
+    inputs:
+      desc:
+        description: "Korte omschrijving"
+        required: true
+      duration:
+        description: "Duur (bv. 20m, 2u)"
+        required: true
+      link:
+        description: "Optionele link (commit/PR/issue)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Voeg regel toe
+        run: |
+          python tools/add_voltooid.py "${{ github.event.inputs.desc }}" "${{ github.event.inputs.duration }}" "${{ github.event.inputs.link }}"
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs(voltooid): ${{ github.event.inputs.desc }}"
+          file_pattern: Publiek/Voltooid.md
