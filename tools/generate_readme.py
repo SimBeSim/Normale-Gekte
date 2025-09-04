@@ -101,7 +101,7 @@ def unicode_tree(dir_path: pathlib.Path, prefix: str = "\n    ", depth: int = 0,
     lines = []
     for i, p in enumerate(entries):
         is_last = (i == len(entries)-1)
-        branch = "└── " if is_last else "├── "
+        branch = "- └── " if is_last else "- ├── "
         pad = prefix + branch
         if p.is_dir():
             lines.append(f"{pad}**{p.name}/**")
