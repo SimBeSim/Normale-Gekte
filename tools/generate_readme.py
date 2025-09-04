@@ -195,6 +195,19 @@ Onderstaande sectie wordt **automatisch** bijgewerkt.
             encoding="utf-8",
         )
 
+def render_highlights(n: int = 3) -> str:
+    voltooid = ROOT / "Publiek" / "Voltooid.md"
+    if not voltooid.exists():
+        return ""
+    lines = [l.strip() for l in voltooid.read_text(encoding="utf-8").splitlines() if l.strip()]
+    # filter alleen regels die beginnen met '- ' (taken)
+    task_lines = [l for l in lines if l.startswith("- ")]
+    if not task_lines:
+        return ""
+    last = task_lines[-n:]
+    return "## Highlights (laatste voltooid)\n" + "\n".join(last) + "\n"
+
+
 def replace_block(text: str, block: str) -> str:
     if START in text and END in text:
         pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.S)
