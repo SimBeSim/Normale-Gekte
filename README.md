@@ -9,7 +9,7 @@ _Last updated: **2025-09-04 12:11 UTC**_
 
 - 2025-09-04 — ✔ Auto-README generator (boom, collapsibles, H1-titels) — ⏱ ~2u — 🔗 https://github.com/SimBeSim/Normale-Gekte/pull/1
 - 2025-09-04 — ✔ Workflow fix (permissions, cron) — ⏱ ~20m — 🔗 https://github.com/SimBeSim/Normale-Gekte/commit/abc123
-- YYYY-MM-DD — ✔ Voltooid-systeem + auto-Highlights in README (collapsible) en inklapbare categorieën — ⏱ 45m — 🔗 https://github.com/SimBeSim/Normale-Gekte/commit/<SHA>
+- 2025-09-04 — ✔ Voltooid-systeem + auto-Highlights in README (collapsible) en inklapbare categorieën — ⏱ 45m — 🔗 https://github.com/SimBeSim/Normale-Gekte/commit/<SHA>
 
 </details>
 
