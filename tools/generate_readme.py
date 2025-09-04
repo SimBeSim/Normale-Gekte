@@ -168,16 +168,30 @@ def badges_line() -> str:
         f"![Last commit](https://img.shields.io/github/last-commit/{REPO})"
     )
 
+def render_highlights(n: int = 3) -> str:
+    voltooid = ROOT / "Publiek" / "Voltooid.md"
+    if not voltooid.exists():
+        return ""
+    lines = [l.strip() for l in voltooid.read_text(encoding="utf-8").splitlines() if l.strip()]
+    # filter alleen regels die beginnen met '- ' (taken)
+    task_lines = [l for l in lines if l.startswith("- ")]
+    if not task_lines:
+        return ""
+    last = task_lines[-n:]
+    return "## Highlights (laatste voltooid)\n" + "\n".join(last) + "\n"
+
 def render_block() -> str:
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     pieces = [
         badges_line(),
         f"_Last updated: **{ts}**_",
         "",
-        "## Index (Tree)",
+        render_highlights(),  # << nieuwe regel
+        "## Index (Tree, Recent-first)",
         render_root_files(),
         render_categories()
     ]
+
     return f"{START}\n" + "\n".join([p for p in pieces if p]).strip() + f"\n{END}"
 
 def ensure_readme():
@@ -194,18 +208,6 @@ Onderstaande sectie wordt **automatisch** bijgewerkt.
 """,
             encoding="utf-8",
         )
-
-def render_highlights(n: int = 3) -> str:
-    voltooid = ROOT / "Publiek" / "Voltooid.md"
-    if not voltooid.exists():
-        return ""
-    lines = [l.strip() for l in voltooid.read_text(encoding="utf-8").splitlines() if l.strip()]
-    # filter alleen regels die beginnen met '- ' (taken)
-    task_lines = [l for l in lines if l.startswith("- ")]
-    if not task_lines:
-        return ""
-    last = task_lines[-n:]
-    return "## Highlights (laatste voltooid)\n" + "\n".join(last) + "\n"
 
 
 def replace_block(text: str, block: str) -> str:
