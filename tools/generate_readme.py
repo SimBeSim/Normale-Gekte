@@ -95,7 +95,7 @@ def list_entries_sorted(base: pathlib.Path) -> List[pathlib.Path]:
 
 # ---------------- tree rendering ----------------
 
-def unicode_tree(dir_path: pathlib.Path, prefix: str = "", depth: int = 0, max_depth: int = 6) -> List[str]:
+def unicode_tree(dir_path: pathlib.Path, prefix: str = "\n", depth: int = 0, max_depth: int = 6) -> List[str]:
     if depth > max_depth: return []
     entries = list_entries_sorted(dir_path)
     lines = []
@@ -169,16 +169,24 @@ def badges_line() -> str:
     )
 
 def render_highlights(n: int = 3) -> str:
+    """Read last n '- ' items from Publiek/Voltooid.md and render as a collapsible block."""
     voltooid = ROOT / "Publiek" / "Voltooid.md"
     if not voltooid.exists():
         return ""
-    lines = [l.strip() for l in voltooid.read_text(encoding="utf-8").splitlines() if l.strip()]
-    # filter alleen regels die beginnen met '- ' (taken)
+    lines = [l.rstrip() for l in voltooid.read_text(encoding="utf-8").splitlines()]
+    # alleen lijstregels met taken
     task_lines = [l for l in lines if l.startswith("- ")]
     if not task_lines:
         return ""
     last = task_lines[-n:]
-    return "## Highlights (laatste voltooid)\n" + "\n".join(last) + "\n"
+    inner = "\n".join(last)
+    return (
+        "<details>\n"
+        "<summary><strong>Highlights (laatste voltooid)</strong></summary>\n\n"
+        f"{inner}\n"
+        "\n</details>\n"
+    )
+
 
 def render_block() -> str:
     ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
