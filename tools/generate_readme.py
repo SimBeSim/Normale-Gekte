@@ -95,7 +95,7 @@ def list_entries_sorted(base: pathlib.Path) -> List[pathlib.Path]:
 
 # ---------------- tree rendering ----------------
 
-def unicode_tree(dir_path: pathlib.Path, prefix: str = "\n", depth: int = 0, max_depth: int = 6) -> List[str]:
+def unicode_tree(dir_path: pathlib.Path, prefix: str = "\n    ", depth: int = 0, max_depth: int = 6) -> List[str]:
     if depth > max_depth: return []
     entries = list_entries_sorted(dir_path)
     lines = []
