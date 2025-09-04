@@ -1,0 +1,13 @@
+{
+  "ignore_dirs": [".git", ".github", "__pycache__", "venv", ".venv", "node_modules", "tools"],
+  "ignore_files": ["README.md", "LICENSE", ".gitignore"],
+  "hidden_prefix": ".",
+  "categories": {
+    "Publiek": "Public",
+    "Seks_en_Drugs": "Sensitive Index (titles only)",
+    "Privé": "Private (local only)"
+  },
+  "category_order": ["Public", "Sensitive Index (titles only)", "Private (local only)", "Uncategorized"],
+  "tree_max_depth": 6,
+  "show_last_modified": true
+}
