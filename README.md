@@ -3,13 +3,13 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-09-05 09:49 UTC**_
+_Last updated: **2025-09-05 09:50 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
-- 2025-09-04 — ✔ Auto-README generator (boom, collapsibles, H1-titels) — ⏱ ~2u — 🔗 https://github.com/SimBeSim/Normale-Gekte/pull/1
-- 2025-09-04 — ✔ Workflow fix (permissions, cron) — ⏱ ~20m — 🔗 https://github.com/SimBeSim/Normale-Gekte/commit/abc123
-- 2025-09-04 — ✔ Voltooid-systeem + auto-Highlights in README (collapsible) en inklapbare categorieën — ⏱ 45m — 🔗 https://github.com/SimBeSim/Normale-Gekte/commit/<SHA>
+- Knoppen verschijnen pas na volledig uittypen → voorkomt skippen.
+- Logging toegevoegd met Google Apps Script: registreert tijd, frame en IP (IPv6).
+- Eerste analyses uitgevoerd op kijkgedrag (Samanta/Wesley test): duidelijk inzicht in hoeveel en welke frames echt zijn bekeken.
 
 </details>
 
