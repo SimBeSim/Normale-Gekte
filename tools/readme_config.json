@@ -3,11 +3,12 @@
   "ignore_files": ["README.md", "LICENSE", ".gitignore"],
   "hidden_prefix": ".",
   "categories": {
+    "FUCK": "FUCK - abbreviation of: F - Frequently - Unasked C - Captivating K - Knowledge"
     "Publiek": "Public",
     "Seks_en_Drugs": "Sensitive Index (titles only)",
     "Privé": "Private (local only)"
   },
-  "category_order": ["Public", "Sensitive Index (titles only)", "Private (local only)", "Uncategorized"],
+  "category_order": ["FUCK", "Public", "Sensitive Index (titles only)", "Private (local only)", "Uncategorized"],
   "tree_max_depth": 6,
   "show_last_modified": true
 }
