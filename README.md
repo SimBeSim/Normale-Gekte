@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-09-29 03:12 UTC**_
+_Last updated: **2025-09-30 03:05 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -15,16 +15,16 @@ _Last updated: **2025-09-29 03:12 UTC**_
 
 ## Index (Tree, Recent-first)
 ### Root
-- [Tijdloze Fundamenten vs. Lock-in Tools](https://github.com/SimBeSim/Normale-Gekte/blob/main/fundamenten_vs_lockin.md)  — _2025-09-28_
-- [Open Letter to Sam Altman and AI Leaders](https://github.com/SimBeSim/Normale-Gekte/blob/main/Open_Letter-2-Sam_Altman_&_AI_Leaders.md)  — _2025-09-28_
-- [Story Terminal](https://github.com/SimBeSim/Normale-Gekte/blob/main/story_terminal.py)  — _2025-09-28_
-- [Vonkje](https://github.com/SimBeSim/Normale-Gekte/blob/main/vonkje.md)  — _2025-09-28_
+- [Tijdloze Fundamenten vs. Lock-in Tools](https://github.com/SimBeSim/Normale-Gekte/blob/main/fundamenten_vs_lockin.md)  — _2025-09-29_
+- [Open Letter to Sam Altman and AI Leaders](https://github.com/SimBeSim/Normale-Gekte/blob/main/Open_Letter-2-Sam_Altman_&_AI_Leaders.md)  — _2025-09-29_
+- [Story Terminal](https://github.com/SimBeSim/Normale-Gekte/blob/main/story_terminal.py)  — _2025-09-29_
+- [Vonkje](https://github.com/SimBeSim/Normale-Gekte/blob/main/vonkje.md)  — _2025-09-29_
 
 <details>
 <summary><strong>Public</strong></summary>
 
 **Publiek/**
-- └── [Voltooid](https://github.com/SimBeSim/Normale-Gekte/blob/main/Publiek/Voltooid.md)  — _2025-09-28_
+- └── [Voltooid](https://github.com/SimBeSim/Normale-Gekte/blob/main/Publiek/Voltooid.md)  — _2025-09-29_
 </details>
 
 
@@ -32,16 +32,16 @@ _Last updated: **2025-09-29 03:12 UTC**_
 <summary><strong>Uncategorized</strong></summary>
 
 **book/**
-- └── [Normale Gekte](https://github.com/SimBeSim/Normale-Gekte/blob/main/book/manuscript.md)  — _2025-09-28_
+- └── [Normale Gekte](https://github.com/SimBeSim/Normale-Gekte/blob/main/book/manuscript.md)  — _2025-09-29_
 
 **FUCK/**
-- └── [🌟 Maxi vraagt & Chatty antwoordt](https://github.com/SimBeSim/Normale-Gekte/blob/main/FUCK/maxi-vraagt-chatty-antwoordt.md)  — _2025-09-28_
+- └── [🌟 Maxi vraagt & Chatty antwoordt](https://github.com/SimBeSim/Normale-Gekte/blob/main/FUCK/maxi-vraagt-chatty-antwoordt.md)  — _2025-09-29_
 
 **ideas/**
-- └── [Normale Gekte — Logboek](https://github.com/SimBeSim/Normale-Gekte/blob/main/ideas/Story_Player.md)  — _2025-09-28_
+- └── [Normale Gekte — Logboek](https://github.com/SimBeSim/Normale-Gekte/blob/main/ideas/Story_Player.md)  — _2025-09-29_
 
 **stories/**
-- ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-09-28_
-- └── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-09-28_
+- ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-09-29_
+- └── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-09-29_
 </details>
 <!-- AUTO-GENERATED:END -->
