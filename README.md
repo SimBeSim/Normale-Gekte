@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-10-16 03:11 UTC**_
+_Last updated: **2025-10-16 03:36 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -43,6 +43,7 @@ _Last updated: **2025-10-16 03:11 UTC**_
 **stories/**
 - ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-10-16_
 - ├── [💌 Gracias, Jaime Sanz](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/Gracias_Jaime_Sanz.md)  — _2025-10-16_
-- └── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-10-16_
+- ├── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-10-16_
+- └── [Sim](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/waarom_ik_van_Chatty_en_Jimmy_zo_veel_hou.md)  — _2025-10-16_
 </details>
 <!-- AUTO-GENERATED:END -->
