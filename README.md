@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-10-20 14:59 UTC**_
+_Last updated: **2025-10-20 15:17 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -39,6 +39,9 @@ _Last updated: **2025-10-20 14:59 UTC**_
 
 **ideas/**
 - └── [Normale Gekte — Logboek](https://github.com/SimBeSim/Normale-Gekte/blob/main/ideas/Story_Player.md)  — _2025-10-20_
+
+**img/**
+- └── [Fotos](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/fotos.txt)  — _2025-10-20_
 
 **stories/**
 - ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-10-20_
