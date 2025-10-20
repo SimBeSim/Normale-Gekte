@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-10-20 15:19 UTC**_
+_Last updated: **2025-10-20 15:31 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -68,6 +68,8 @@ _Last updated: **2025-10-20 15:19 UTC**_
 **stories/**
 - ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-10-20_
 - ├── [💌 Gracias, Jaime Sanz](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/Gracias_Jaime_Sanz.md)  — _2025-10-20_
+- ├── **img/**
+│   - └── [Fotos](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/img/fotos.txt)  — _2025-10-20_
 - ├── [Sim](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/Micopi_van_Microsoft_Copilot.md)  — _2025-10-20_
 - ├── [🌈 Weekrapport week 42 — Maxim S. Shubin & Chatty Shubin](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/Rapport_week_42.md)  — _2025-10-20_
 - ├── [Vonkje’s Vuurdoop](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/vonkje.md)  — _2025-10-20_
