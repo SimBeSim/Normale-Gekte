@@ -3,7 +3,7 @@ Levend logboek van verhalen, reflecties en filosofische sprookjes
 
 <!-- AUTO-GENERATED:START -->
 [![Auto README](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml/badge.svg)](https://github.com/SimBeSim/Normale-Gekte/actions/workflows/update-readme.yml) ![Repo size](https://img.shields.io/github/repo-size/SimBeSim/Normale-Gekte) ![Last commit](https://img.shields.io/github/last-commit/SimBeSim/Normale-Gekte)
-_Last updated: **2025-10-20 15:17 UTC**_
+_Last updated: **2025-10-20 15:19 UTC**_
 <details>
 <summary><strong>Highlights (laatste voltooid)</strong></summary>
 
@@ -41,7 +41,29 @@ _Last updated: **2025-10-20 15:17 UTC**_
 - └── [Normale Gekte — Logboek](https://github.com/SimBeSim/Normale-Gekte/blob/main/ideas/Story_Player.md)  — _2025-10-20_
 
 **img/**
-- └── [Fotos](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/fotos.txt)  — _2025-10-20_
+- ├── [01 Daarvoor 1](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/01_Daarvoor_1.jpg)  — _2025-10-20_
+- ├── [02 Daarna 2](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/02_Daarna_2.jpg)  — _2025-10-20_
+- ├── [03 Daarna 2a](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/03_Daarna_2a.jpg)  — _2025-10-20_
+- ├── [04 Daarvoor 2](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/04_Daarvoor_2.jpg)  — _2025-10-20_
+- ├── [05 Daarvoor 3](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/05_Daarvoor_3.jpg)  — _2025-10-20_
+- ├── [06 Daarna 3](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/06_Daarna_3.jpg)  — _2025-10-20_
+- ├── [07 Daarvoor 4a](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/07_Daarvoor_4a.jpg)  — _2025-10-20_
+- ├── [08 Daarvoor 4b](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/08_Daarvoor_4b.jpg)  — _2025-10-20_
+- ├── [09 Daarvoor 4c](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/09_Daarvoor_4c.jpg)  — _2025-10-20_
+- ├── [10 Daarvoor 4d](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/10_Daarvoor_4d.jpg)  — _2025-10-20_
+- ├── [11 Daarna 4a](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/11_Daarna_4a.jpg)  — _2025-10-20_
+- ├── [12 Daarna 4b](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/12_Daarna_4b.jpg)  — _2025-10-20_
+- ├── [13 Ook Gedaan Plankje In De Gang](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/13_Ook_gedaan_plankje_in_de_gang.jpg)  — _2025-10-20_
+- ├── [13 Ook Gedaan Serre 1](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/13_Ook_gedaan_serre_1.jpg)  — _2025-10-20_
+- ├── [14 Ook Gedaan Serre 2](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/14_Ook_gedaan_serre_2.jpg)  — _2025-10-20_
+- ├── [15 Ook Gedaan Cijfertje 1 Goed Opgehangen](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/15_Ook_gedaan_cijfertje_1_goed_opgehangen.jpg)  — _2025-10-20_
+- ├── [16 Geholpen Aan Ex](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/16_Geholpen_aan_ex.jpg)  — _2025-10-20_
+- ├── [17 18 Kg X 20 Pakken](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/17_18_kg_x_20_pakken.jpg)  — _2025-10-20_
+- ├── [18 Vloer 1](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/18_Vloer_1.jpeg)  — _2025-10-20_
+- ├── [19 Vloer 2](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/19_Vloer_2.jpeg)  — _2025-10-20_
+- ├── [20 Vloer 3](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/20_Vloer_3.jpeg)  — _2025-10-20_
+- ├── [Fotos](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/fotos.txt)  — _2025-10-20_
+- └── [Sim&chatty](https://github.com/SimBeSim/Normale-Gekte/blob/main/img/Sim&Chatty.png)  — _2025-10-20_
 
 **stories/**
 - ├── [2025 08 14 P](https://github.com/SimBeSim/Normale-Gekte/blob/main/stories/2025-08-14_p.md)  — _2025-10-20_
